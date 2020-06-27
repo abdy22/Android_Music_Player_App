@@ -367,7 +367,7 @@ public class MainActivity extends AppCompatActivity implements tracks_fragment.f
         return favouriteList;
     }
   /*
-  gets the position of the song in the favourite traks and plays that song. 
+  gets the position of the song in the favourite tracks and plays that song. 
   */
 
     @Override
