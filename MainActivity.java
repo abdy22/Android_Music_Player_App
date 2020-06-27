@@ -333,6 +333,9 @@ public class MainActivity extends AppCompatActivity implements tracks_fragment.f
     private int getPosition(){
         return position;
     }
+  /*
+     gets the position of the song in the traks list and plays that song
+  */
 
 
     @Override
@@ -363,6 +366,9 @@ public class MainActivity extends AppCompatActivity implements tracks_fragment.f
 
         return favouriteList;
     }
+  /*
+  gets the position of the song in the favourite traks and plays that song. 
+  */
 
     @Override
     public void favourite_position(int position) {
